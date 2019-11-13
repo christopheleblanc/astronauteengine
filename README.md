@@ -1,4 +1,4 @@
-# astronauteengine
+# Astronaute Engine
 A basic animation engine for HTML canvas born from the idea of ​​animating a small astronaut designed by my sister and make a small demonstration of my skills in Javascript in end of 2017/ early 2018.
 
 Astronaut Engine allows you to program different sequences of different types of animations (for example: move, rotate, resize).
@@ -6,6 +6,11 @@ Astronaut Engine allows you to program different sequences of different types of
 It is coded according to a quite classical architecture : A main loop, a scene manager, a display manager and a sequencer.
 
 Developer: Christophe Leblanc. 
+
+## Demos
+
+[An astronaut in space](http://cjpl.ws/homeworks/astronauteengine/astronaute.html)
+[Bubble machine](http://cjpl.ws/homeworks/astronauteengine/bubbles.html)
 
 ## How to use
 
@@ -72,4 +77,4 @@ This program is not intended to compete with large animation or video game frame
 
 ### License
 
-Astronaut Engine is [MIT licensed](./LICENSE).
+Astronaute Engine is [MIT licensed](./LICENSE).
