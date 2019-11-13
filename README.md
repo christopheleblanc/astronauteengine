@@ -10,6 +10,7 @@ Developer: Christophe Leblanc.
 ## Demos
 
 [An astronaut in space](http://cjpl.ws/homeworks/astronauteengine/astronaute.html)
+
 [Bubble machine](http://cjpl.ws/homeworks/astronauteengine/bubbles.html)
 
 ## How to use
