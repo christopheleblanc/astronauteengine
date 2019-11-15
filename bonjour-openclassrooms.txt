@@ -1,1 +1,0 @@
-Ce fichier est ici pour vous assurer que ce repository a été créé à l'occasion de l'activité "Git & GitHub - Partie 2 Activité" pour OpenClassrooms.
